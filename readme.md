@@ -3,7 +3,7 @@
 
 I would like to highlight my ongoing interest in learning and staying updated in the field of software development and emerging technologies. Throughout the day, I engage in software development practice and keep abreast of the latest innovations. During my free time, I conduct research and take courses to expand my skill set. I find equal enjoyment in teaching what I have learned and learning from others.
 
-## Profile
+## 🤖 Profile
 👩‍💻 Currently, I'm working on the frontend using React with Redux, and on the backend, I'm utilizing NodeJs + Express with PostgreSQL.
 
 🧠 I'm currently learning Nest.js, Next.js, PHP and Laravel.
