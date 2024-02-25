@@ -3,7 +3,7 @@
 
 Passionate software developer with expertise in technologies like React.js, Redux, Nest.js, Next.js, PHP, and Laravel. I love learning and collaborating in multidisciplinary teams. Connect with me to discuss exciting projects!
 ## Profile
-👩‍💻 Currently, I'm working on the frontend using React with Redux, and on the backend, I'm utilizing Express with PostgreSQL.
+👩‍💻 Currently, I'm working on the frontend using React with Redux, and on the backend, I'm utilizing NodeJs + Express with PostgreSQL.
 
 🧠 I'm currently learning Nest.js, Next.js, PHP and Laravel.
 
