@@ -1,7 +1,8 @@
 
 # Hi, I'm Jhorman Nieto P! 👋
 
-Passionate software developer with expertise in technologies like React.js, Redux, Nest.js, Next.js, PHP, and Laravel. I love learning and collaborating in multidisciplinary teams. Connect with me to discuss exciting projects!
+I would like to highlight my ongoing interest in learning and staying updated in the field of software development and emerging technologies. Throughout the day, I engage in software development practice and keep abreast of the latest innovations. During my free time, I conduct research and take courses to expand my skill set. I find equal enjoyment in teaching what I have learned and learning from others.
+
 ## Profile
 👩‍💻 Currently, I'm working on the frontend using React with Redux, and on the backend, I'm utilizing NodeJs + Express with PostgreSQL.
 
