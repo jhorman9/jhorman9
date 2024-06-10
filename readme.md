@@ -17,7 +17,7 @@ I would like to highlight my ongoing interest in learning and staying updated in
 ![HTML](https://img.shields.io/badge/ReactJS-AEEEEE?logo=react)
 ![HTML](https://img.shields.io/badge/REDUX-9932CC?logo=redux)
 ![HTML](https://img.shields.io/badge/ExpressJS-2E8B57?logo=express)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-4cb74c?logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize)
 ![HTML](https://img.shields.io/badge/WordPress-87CEEB?logo=wordpress)
